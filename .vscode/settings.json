@@ -1,0 +1,16 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/windows",
+    "cSpell.words": [
+        "autocorrect",
+        "barcodes",
+        "checkmark",
+        "companys",
+        "datasource",
+        "datatable",
+        "Encryptor",
+        "Octo",
+        "Usecase",
+        "viewmodels",
+        "تفاوض"
+    ]
+}
